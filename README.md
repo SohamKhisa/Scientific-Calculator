@@ -1,7 +1,7 @@
 # Scientific-Calculator
 scientific calculator on Protues and Atmel Studio/Microchip Studio. This was our the final project for CSE316:Microprocessors, Microcontrollers, and Embedded Systems Sessional course at BUET.
 # Technology used
-P#roteus 8 professional, Atmel Studio 7, Arduino IDE
+Proteus 8 professional, Atmel Studio 7, Arduino IDE
 ## How to run
 1. Load the Arduino library files in proteus
 2. Open Atmel studio 7 and load the project "AtmelStudio/GccCalculator/GccCalculator.atsln"
