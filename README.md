@@ -13,5 +13,5 @@ Proteus 8 professional, Atmel Studio 7, Arduino IDE
 ## Video Demonstration
 The demonstration of this project can be found <a href="https://www.youtube.com/watch?v=J00_JvlNZvQ&ab_channel=SharifulIslam">here</a>
 ## Contributors
-<a href="https://github.com/IAMSHARIFUL">Shariful Islam</a>
+<a href="https://github.com/IAMSHARIFUL">Shariful Islam</a><br>
 <a href="https://github.com/SohamKhisa">Soham Khisa</a>
