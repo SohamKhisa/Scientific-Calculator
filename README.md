@@ -1,5 +1,5 @@
 # Scientific-Calculator
-scientific calculator on Protues and Atmel Studio/Microchip Studio. This was our the final project for CSE316:Microprocessors, Microcontrollers, and Embedded Systems Sessional course at BUET.
+scientific calculator on Protues and Atmel Studio/Microchip Studio. This was our final project for CSE316:Microprocessors, Microcontrollers, and Embedded Systems Sessional course at BUET.
 # Technology used
 Proteus 8 professional, Atmel Studio 7, Arduino IDE
 ## How to run
